@@ -38,12 +38,12 @@ Regular Expressions| Cleaning and validating recognized plate text
 
 Vehicle-Number-Plate-Recognition/
 
-   > main_gui_updated.py
-   > main.py
-   > authorized_vehicles.csv
-   > scan_log.csv
-   > results/
-   > README.md
+   1) main_gui_updated.py
+   2) main.py
+   3) authorized_vehicles.csv
+   4) scan_log.csv
+   5) results/
+   6) README.md
 
 - "main_gui_updated.py" — Updated graphical application.
 - "main.py" — Original application or core implementation, if retained.
